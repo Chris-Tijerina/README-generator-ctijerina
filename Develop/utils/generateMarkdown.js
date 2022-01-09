@@ -81,12 +81,15 @@ function generateMarkdown(data) {
 
   ## License
   ${renderLicenseSection(data.license)}
-  
+
   ## Contributing
   ${data.contributing}
 
-  ## Tests
+  ## Tests  
   ${data.tests}
+
+  ## Questions
+  If you have any questions, feel free to contact me at ${data.email} or through my GitHub username, ${data.github}.
 `;
 }
 
