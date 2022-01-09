@@ -50,7 +50,7 @@ const questions = () => {
             type: "checkbox",
             name: "license",
             message: "What licenses would you like to include for your project? (check all that apply)",
-            choices: ["Apache 2.0", "Mozilla 2.0", "GitHub", "NPM", "Perl", "Eclipse", "GNU"]
+            choices: ["Apache 2.0", "Mozilla 2.0", "Boost", "IBM", "Perl", "Eclipse", "GNU"]
         }
 
     ])
@@ -70,7 +70,6 @@ function writeToFile(readmeInfo) {
 function init() {
     questions()
         .then(data => {
-            console.log(data.title)
             return data
         })
         .then(data => {
