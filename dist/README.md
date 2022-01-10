@@ -2,7 +2,7 @@
   # README Generator
 
   ## Description
-  This project was created to streamline the README creation process. By using a terminal application, you can generate a professional README markdown without having to worry about formatting. It will cover the most basic necessities of a README as well as some more advanced sections.
+    This project was created to streamline the README creation process. By using a terminal application, you can generate a professional README markdown without having to worry about formatting. It will cover the most basic necessities of a README as well as some more advanced sections.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -20,14 +20,13 @@
   ## License
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
 
   ## Contributing
-  If you would like to contribute, please make a fork of the repository and add whatever you may need. I would suggest adding any licenses that are not available, that you or others may need. 
+  If you would like to contribute, you may want to fork the repository or clone it to your own. I would suggest adding in as many licenses as you may need. 
 
   ## Tests  
-  I have no examples of tests that can be run. 
+   I have no examples of tests that can be run. 
 
   ## Questions
-  If you have any questions, feel free to contact me at CT@email.com or through my GitHub username, Chris-Tijerina.
+  If you have any questions, feel free to contact me at chris-tijerina@email.com or through my GitHub link: https://github.com/Chris-Tijerina.
