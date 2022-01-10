@@ -22,6 +22,8 @@ When I click on the links in the Table of Contents, then I am taken to the corre
 
 > In order to use this application you will have to download the repository, or clone it, and open it up in your chosen terminal (Vs.Code, GitBash, Terminal for Mac, etc.). Then you will have to ensure that node package manager has been installed (using "npm install" in the terminal) and you'll need to install Inquirer as well, (by typing "npm install inquirer" into your terminal). You can then run the application by typing "node index". The video below shows what will occur then:
 
+https://watch.screencastify.com/v/Zo0A02eLr0XNIRqHxY1X
+
 
 
 
